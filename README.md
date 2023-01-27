@@ -1,8 +1,10 @@
-# BuildTheEarth-Manual-Install
+# Manually Installing BTE
 
 Using the official installer for BuildTheEarth no longer works for me, so I've decided to do it manually.
 
-## Steps
+---
+
+## Required Steps
 ### 1. Install Forge 1.12.2
 You can use any 1.12.2 version, though I personally used the [latest one](https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar), as it was used by the official BuildTheEarth modpack. Simply run it and press Install.
 
@@ -15,5 +17,8 @@ Open Minecraft Launcher again and click on the "Installations" tab. Hover over F
 ### 4. Install the mods
 [Download](https://github.com/RyanGarber/BuildTheEarth-Manual-Install/archive/refs/heads/main.zip) this zip file. Copy everything from the zip file's `mods` folder to your Minecraft's `mods` folder.
 
-### 5. (Optional) Install OptiFine
-If like Minecraft's lighting and textures to look more realistic like I do, stay tuned for an appendix here.
+---
+
+## Optional Steps
+### 5. Install OptiFine
+If, like me, you prefer more realistic lighting and/or textures, stay tuned for an appendix here.
