@@ -21,4 +21,4 @@ Open Minecraft Launcher again and click on the "Installations" tab. Hover over F
 
 ## Optional Steps
 ### 5. Install OptiFine
-If, like me, you prefer more realistic lighting and/or textures, stay tuned for an appendix here.
+If, like me, you prefer more realistic lighting, copy everything from `shaderpacks` into your Minecraft folder, just like you did with the mods. Enable them in `Options > Video Settings > Shaders`.
