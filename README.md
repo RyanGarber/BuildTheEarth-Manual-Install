@@ -21,4 +21,4 @@ Open Minecraft Launcher again and click on the "Installations" tab. Hover over F
 
 ## Optional Steps
 ### 5. Install shader packs
-If, like me, you prefer more realistic lighting, copy everything from the zip file's `shaderpacks` folder to your Minecraft's new `shaderpacks` folder. Enable them in `Options > Video Settings > Shaders`. This folder will not exist until you start Minecraft with these mods once.
+If, like me, you prefer more realistic lighting, start Minecraft *with* the mods, then copy everything from the zip file's `shaderpacks` folder to your Minecraft's new `shaderpacks` folder. Enable them in `Options > Video Settings > Shaders`.
